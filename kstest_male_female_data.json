@@ -1,0 +1,108 @@
+[
+	{ 
+		"karnataka" : {"female population" : 30128640, "male population": 30966657 }
+	},
+	{ 
+		"odisha" : {"female population" : 20762082, "male population": 21212136}
+	},
+	{ 
+		"lakshadweep" : {"female population" : 31350, "male population": 33123}
+	},
+	{ 
+		"jammu & kashmir" : {"female population" : 5900640, "male population": 6640662}
+	},
+	{ 
+		"nagaland" : {"female population" : 953853, "male population": 1024649}
+	},
+	{ 
+		"haryana" : {"female population" : 11856728, "male population": 13494734}
+	},
+	{ 
+		"andhra pradesh" : {"female population" : 42138631, "male population": 42442146}
+	},
+	{ 
+		"jharkhand" : {"female population" : 16057819, "male population":16930315}
+	},
+	{ 
+		"arunachal pradesh" : {"female population" : 669815, "male population": 713912}
+	},
+	{ 
+		"sikkim" : {"female population" : 287507, "male population":323070 }
+	},
+	{ 
+		"mizoram" : {"female population" : 541867, "male population": 555339}
+	},
+	{ 
+		"uttarakhand" : {"female population" : 4948519, "male population": 5137773}
+	},
+	{ 
+		"himachal pradesh" : {"female population" : 3382729, "male population": 3481873}
+	},
+	{ 
+		"manipur" : {"female population" : 1280219, "male population": 1290171}
+	},
+	{ 
+		"uttar pradesh" : {"female population" : 95331831, "male population": 104480510}
+	},
+	{ 
+		"meghalaya" : {"female population" : 1475057, "male population": 1491832 }
+	},
+	{ 
+		"west bengal" : {"female population" : 44467088, "male population": 46809027}
+	},
+	{ 
+		"chhattisgarh" : {"female population" : 12712303, "male population": 12832895}
+	},
+	{ 
+		"delhi" : {"female population" : 7800615, "male population": 8887326 }
+	},
+	{ 
+		"assam" : {"female population" : 15266133, "male population":15939443}
+	},
+	{ 
+		"daman & diu" : {"female population" : 92946, "male population": 150301}
+	},
+	{ 
+		"chandigarh" : {"female population" : 474787, "male population": 580663}
+	},
+	{ 
+		"goa" : {"female population" : 719405, "male population": 739140}
+	},
+	{ 
+		"puducherry" : {"female population" : 635442, "male population": 612511}
+	},
+	{ 
+		"d & n haveli" : {"female population" : 149949, "male population": 193760}
+	},
+	{ 
+		"tamil nadu" : {"female population" : 36009055, "male population": 36137975}
+	},
+	{ 
+		"punjab" : {"female population" : 13103873, "male population": 14639465}
+	},
+	{ 
+		"tripura" : {"female population" : 1799541, "male population": 1874376}
+	},
+	{ 
+		"gujarat" : {"female population" : 28948432, "male population": 31491260}
+	},
+	{ 
+		"bihar" : {"female population" : 49821295, "male population": 54278157}
+	},
+	{ 
+		"rajasthan" : {"female population" : 32997440, "male population": 35550997}
+	},
+	{ 
+		"maharashtra" : {"female population" : 54131277, "male population": 58243056}
+	},
+	{ 
+		"madhya pradesh" : {"female population" : 35014503, "male population": 37612306}
+	},
+	{ 
+		"kerala" : {"female population" : 17378649, "male population": 16027412}
+	},
+	{ 
+		"a & n islands" : {"female population" : 177710, "male population": 202871}
+	}
+]
+
